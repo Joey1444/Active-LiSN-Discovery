@@ -56,14 +56,21 @@
 * **降本增效 📉**：验证了 AI4S 路径在处理新体系时的工程可行性，将新材料的探索成本降低了一个数量级。
 
 
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/21468d7b-579f-4bd3-b414-2fe21ad91656" width="60%" alt="Li-S-N 晶体结构动态演示" />
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/7499d1ae-14b4-4be0-9cbb-9665ef5f79e4" 
+         width="40%" 
+         autoplay 
+         loop 
+         muted 
+         playsinline>
+  </video>
   <br>
-  <b>视频1：基于 VESTA 渲染的 Li-S-N 亚稳态结构动态演化</b>
-  <br>
-  <i>(展示了晶体结构的配位环境及锂离子的潜在迁移路径)</i></p>
+  <p align="center">
+    <b>视频 1：基于 VESTA 渲染的 Li-S-N 亚稳态结构动态演化</b>
+    <br>
+    <i>(展示了晶体结构的配位环境及锂离子的潜在迁移路径)</i>
+  </p>
+</div>
 
 
 ---
