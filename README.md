@@ -1,6 +1,6 @@
 # 🚀 Active Li-S-N Discovery
 
-### 基于 QBC 主动学习的 Li-S-N 体系势函数微调与新材料搜索方案
+### 基于主动学习的 Li-S-N 体系势函数微调与新材料搜索方案
 
 ---
 
@@ -21,7 +21,7 @@
 
 ## 🛠️ 2. 核心技术路径 (Action)
 
-本项目主导并落地了“生成-筛选-标注-进化”的自动化全闭环路径。
+本项目主导并落地了 **“生成-筛选-标注-进化”** 的自动化全闭环路径。
 
 ### A. 不确定性驱动的采样策略 (QBC Mechanism) 🔍
 
@@ -54,5 +54,14 @@
 
 * **新材料锁定**：凭借微调后的高精度势函数，成功锁定了多个具有优异物理特性的全新 **Li-S-N 亚稳态结构**。
 * **降本增效 📉**：验证了 AI4S 路径在处理新体系时的工程可行性，将新材料的探索成本降低了一个数量级。
-<img width="1104" height="2360" alt="流程图" src="https://github.com/user-attachments/assets/64a96b88-4655-494b-a5a9-2edfaef293b8" />
+
+---
+
+## 🛠️ 4. 全链路项目工作流 (Workflow)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/64a96b88-4655-494b-a5a9-2edfaef293b8" width="40%" alt="项目流程图" />
+  <br>
+  <em>图 1：基于主动学习的 Li-S-N 体系势函数微调研发流程</em>
+</p>
 
