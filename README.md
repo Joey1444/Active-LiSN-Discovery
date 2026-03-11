@@ -80,6 +80,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/64a96b88-4655-494b-a5a9-2edfaef293b8" width="40%" alt="项目流程图" />
   <br>
-  <em>图 1：基于主动学习的 Li-S-N 体系势函数微调研发流程</em>
+  <b>图 1：基于主动学习的 Li-S-N 体系势函数微调研发流程</b>
 </p>
 
